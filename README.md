@@ -1,13 +1,12 @@
 # Como-tomar-Água.
 Aprenda como tomar água
-<body>
-<!DOCTYPE html>
+<body> 
 <html lang="pt-br">
+
 <head>COMO TOMAR Água?
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
+    <title>Document</title> </head>
 
 
 
